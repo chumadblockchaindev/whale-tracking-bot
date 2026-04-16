@@ -1,0 +1,13 @@
+solana
+solders
+aiohttp
+python-dotenv
+anchorpy
+construct
+based58
+websockets
+telethon
+aiofiles
+pandas
+aiosqlite
+python-telegram-bot
